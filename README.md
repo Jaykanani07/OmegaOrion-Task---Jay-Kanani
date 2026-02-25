@@ -13,8 +13,7 @@ The application includes:
 ---
 
 ##  Live Demo
-(Add deployed link here after deployment)
-
+https://omega-orion-task-jay-kanani-h3gb874ai-jay-kananis-projects.vercel.app/
 ---
 
 ## Tech Stack
@@ -40,14 +39,14 @@ src/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 Follow the steps below to run the project locally:
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository and perform following steps
 
 ```bash
-git clone https://github.com/<your-username>/core-frontend-assignment.git
+git clone https://github.com/Jaykanani07/OmegaOrion-Task---Jay-Kanani
 cd core-frontend-assignment
 npm install
 npm run dev
